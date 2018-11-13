@@ -1,0 +1,10 @@
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\CalendarAPP.exe.config
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\CalendarAPP.exe
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\CalendarAPP.pdb
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\obj\Debug\CalendarAPP.csprojResolveAssemblyReference.cache
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\obj\Debug\CalendarAPP.csproj.CoreCompileInputs.cache
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\obj\Debug\CalendarAPP.exe
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\obj\Debug\CalendarAPP.pdb
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\krunal.patel\Source\Repos\CalendarAPP\CalendarAPP\bin\Debug\Newtonsoft.Json.xml
